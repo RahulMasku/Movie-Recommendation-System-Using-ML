@@ -4,7 +4,7 @@ This project builds a movie recommendation system using the surprise library in 
 
 Installation:
 1.	Clone the repository:
-git clone https://github.com/yourusername/movierecommender.git
+git clone https://github.com/RahulMasku/movierecommender.git
 cd movierecommender
 2.	Install the required packages:
 pip install -r requirements.txt
